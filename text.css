@@ -1,0 +1,56 @@
+body {
+    background-color: #F0FFFF;
+    padding: 10px;
+    color: #000000;
+}
+
+#baner {
+    text-align: center;
+    font-size: 45px;
+    color: yellow;
+	border: 2px solid black;
+    width: 100%;
+	background-color: #8A2BE2;
+}
+
+#stopka {
+    text-align: center;
+    font-size: 45px;
+    color: yellow;
+    width: 100%;
+	border: 2px solid black;
+	float: left;
+	background-color: #8A2BE2;
+
+}
+
+.left {
+    width: 50%;
+    float: left;
+	border: 2px solid black;
+	height: 827px;
+	color: #000000;
+	font-size: 27px;
+}
+
+.right {
+    width: 49.57%;
+    float: right;
+	border: 2px solid black;
+	height: 827px;
+	color: #000000;
+}
+
+table {
+    width: auto;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #000000;
+    background-color: #8A2BE2;
+	border: 2px solid black;
+	color: #000000;
+}
