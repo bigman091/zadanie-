@@ -1,56 +1,54 @@
 body {
-    background-color: #F0FFFF;
-    padding: 10px;
-    color: #000000;
+    background-color: #FFFF99;
+    padding: 20px;
+    font-family: Arial;
+    color: black;
 }
 
 #baner {
     text-align: center;
-    font-size: 45px;
-    color: yellow;
-	border: 2px solid black;
-    width: 100%;
-	background-color: #8A2BE2;
+    font-size: 50px;
+    color: Black;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: #008080;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 #stopka {
     text-align: center;
-    font-size: 45px;
-    color: yellow;
-    width: 100%;
-	border: 2px solid black;
-	float: left;
-	background-color: #8A2BE2;
-
+    font-size: 20px;
+    color: Black;
+    background-color: #008080;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 2px solid black;
 }
 
 .left {
-    width: 50%;
-    float: left;
-	border: 2px solid black;
-	height: 827px;
-	color: #000000;
-	font-size: 27px;
+    padding: 10px;
+    background-color: #228B22;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
 }
 
 .right {
-    width: 49.57%;
-    float: right;
-	border: 2px solid black;
-	height: 827px;
-	color: #000000;
+    background-color: #228B22;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
 }
 
-table {
-    width: auto;
-    color: #000000;
-    text-align: center;
-    margin-bottom: 20px;
+img {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 10px;
 }
 
-h3 {
-    color: #000000;
-    background-color: #8A2BE2;
-	border: 2px solid black;
-	color: #000000;
+img:hover {
+    transform: scale(1.2);
 }
